@@ -1,0 +1,17 @@
+{
+    "posts": [
+        {
+          "id": 1,
+          "name": "Lorem Ipsum post one",
+          "body":"Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        },
+      {
+        "id": 2,
+        "name": "Lorem Ipsum post two",
+        "body":"Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      }
+     
+      
+    ]
+  }
+  
